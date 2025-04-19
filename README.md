@@ -22,6 +22,7 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
   - Add a task with deadline/priority
   - Auto-sort tasks
   - Show due tasks for today
+  - All upcoming tasks
 
 ---
 
