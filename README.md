@@ -25,12 +25,11 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
   - All upcoming tasks
 
 ---
-### 📞 4. *Call Center Support Ticket Manager*
+### 📞 3. *Call Center Support Ticket Manager*
 - *Description*: Handle incoming customer issues.
 - *DSA Concepts*: Stack (for undo), Queue (tickets), HashMap (for customer info).
 - *Features*:
   - Log a new ticket
-  - Assign based on urgency (priority queue)
   - Track past tickets
 
 ---
