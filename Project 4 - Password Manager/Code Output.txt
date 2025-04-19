@@ -1,0 +1,24 @@
+==============================
+Welcome to Password Manager
+==============================
+1. Add a new account
+2. Search password by Site name
+3. Exit
+Enter your choice: 1
+
+Enter site name (or 0 to exit): google 
+Enter G-mail: jxxxhxxashxx08xx
+Do you want to auto-generate a strong password? (yes/no): yes
+Generated Password: n+L3e8^U
+Account added successfully!
+
+Enter site name (or 0 to exit): 0
+
+==============================
+Welcome to Password Manager
+==============================
+1. Add a new account
+2. Search password by Site name
+3. Exit
+Enter your choice: 3
+Exiting... Thank you for using Password Manager!
