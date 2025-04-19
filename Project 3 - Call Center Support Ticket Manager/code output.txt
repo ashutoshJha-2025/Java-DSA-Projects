@@ -1,0 +1,77 @@
+======================================
+       Welcome to Ticket System
+======================================
+
+--------------------------------------
+1. Log a new Ticket.
+2. View Pending Tickets.
+3. Resolve a Ticket.
+4. View Ticket History.
+5. Exit.
+--------------------------------------
+Enter your choice: 1
+
+--- Log a New Ticket ---
+Enter issue (or 0 to exit): Electricity bill
+Enter Customer Name: xxxyx
+Ticket added successfully! (Ticket ID: 1)
+
+Enter issue (or 0 to exit): Ac repairing
+Enter Customer Name: xwzf
+Ticket added successfully! (Ticket ID: 2)
+
+Enter issue (or 0 to exit): 0
+Returning to main menu...
+
+
+--------------------------------------
+1. Log a new Ticket.
+2. View Pending Tickets.
+3. Resolve a Ticket.
+4. View Ticket History.
+5. Exit.
+--------------------------------------
+Enter your choice: 2
+
+--- Pending Tickets ---
+Ticket ID: 1, Issue: Electricity bill, Customer Name: xxxyx
+Ticket ID: 2, Issue: Ac repairing, Customer Name: xwzf
+
+
+--------------------------------------
+1. Log a new Ticket.
+2. View Pending Tickets.
+3. Resolve a Ticket.
+4. View Ticket History.
+5. Exit.
+--------------------------------------
+Enter your choice: 3
+
+--- Resolve a Ticket ---
+Enter Ticket ID to resolve: 1
+Ticket resolved and moved to history. (Ticket ID: 1)
+
+
+--------------------------------------
+1. Log a new Ticket.
+2. View Pending Tickets.
+3. Resolve a Ticket.
+4. View Ticket History.
+5. Exit.
+--------------------------------------
+Enter your choice: 4
+
+--- Ticket History ---
+Ticket ID: 1, Issue: Electricity bill, Customer Name: xxxyx
+
+
+--------------------------------------
+1. Log a new Ticket.
+2. View Pending Tickets.
+3. Resolve a Ticket.
+4. View Ticket History.
+5. Exit.
+--------------------------------------
+Enter your choice: 5
+
+Thank you for using the Ticket System. Goodbye!
