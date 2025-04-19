@@ -30,6 +30,8 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
 - *DSA Concepts*: Stack (for undo), Queue (tickets), HashMap (for customer info).
 - *Features*:
   - Log a new ticket
+  - view pending tickets
+  - Resolve a ticket
   - Track past tickets
 
 ---
