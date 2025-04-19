@@ -36,28 +36,7 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
 
 ---
 
-### 🧮 5. *Expense Tracker with Monthly Reports*
-- *Description*: Log and categorize expenses.
-- *DSA Concepts*: HashMap (categories), ArrayList (expenses), Stack (undo entries).
-- *Features*:
-  - Add/edit/remove expenses
-  - Monthly summary
-  - Undo last action
-
----
-
-### 🎲 6. *Inventory Management System (Small Store)*
-- *Description*: Track products in a local shop.
-- *DSA Concepts*: HashMap, LinkedList, Queue (for restocking orders).
-- *Features*:
-  - *Manage Inventory*: Add/edit/remove products from stock
-  - *Restock Alerts*: Queue low-stock items for restocking
-  - *Track Inventory Logs*: View past updates with timestamps
-  - *Monitor Cart Trends*: Analyze what customers add most
-
----
-
-### 🔒 7. *Password Manager (String Manipulation + HashMap)*
+### 🔒 4. *Password Manager (String Manipulation + HashMap)*
 - *Description*: Store and retrieve passwords.
 - *DSA Concepts*: HashMap (site → password), String processing, basic encryption algorithms.
 - *Features*:
@@ -67,27 +46,7 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
 
 ---
 
-### 📦 8. *Parcel Sorting Simulation (Using Stacks & Queues)*
-- *Description*: Model how parcels are sorted in a warehouse.
-- *DSA Concepts*: Stack (shelves), Queue (incoming parcels), HashMap (parcel info).
-- *Features*:
-  - Simulate sorting process
-  - Track parcels
-  - Manage loading/unloading
-
----
-
-### 📚 9. *Library Book Checkout System*
-- *Description*: Simulate how a library tracks books being borrowed/returned.
-- *DSA Concepts*: HashMap (book ID → book info), Queue (waiting list), LinkedList (user history).
-- *Features*:
-  - Borrow/return books
-  - Track late returns
-  - Auto-manage waitlist
-
----
-
-### 🧠 10. *Quiz/Flashcard App (Linked List + Stack)*
+### 🧠 5. *Quiz/Flashcard App (Linked List + Stack)*
 - *Description*: Study app using flashcards and quizzes.
 - *DSA Concepts*: LinkedList (card navigation), Stack (revisiting questions).
 - *Features*:
