@@ -25,17 +25,6 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
   - All upcoming tasks
 
 ---
-
-### 🛫 3. *Airport Check-In Queue System*
-- *Description*: Simulate check-in for passengers.
-- *DSA Concepts*: Queue (FIFO), Circular Queue (if needed), LinkedList.
-- *Features*:
-  - Multiple queues (e.g. Business, Economy)
-  - Priority boarding
-  - Cancel/reschedule logic
-
----
-
 ### 📞 4. *Call Center Support Ticket Manager*
 - *Description*: Handle incoming customer issues.
 - *DSA Concepts*: Stack (for undo), Queue (tickets), HashMap (for customer info).
