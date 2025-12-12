@@ -1,0 +1,105 @@
+===== Quiz or Flashcard App =====
+1. Add Quiz/Flashcard
+2. Remove a Question
+3. Edit Question
+4. Quiz Mode
+5. Revision Mode
+6. Display All Questions
+7. Exit
+Enter your choice: 4
+
+===== Quiz Mode =====
+
+1. What is the capital of France?
+   1. Paris
+   2. London
+   3. Berlin
+   4. Madrid
+Your answer (1-4): 1
+Correct!
+
+2. Which planet is known as the Red Planet?
+   1. Earth
+   2. Mars
+   3. Jupiter
+   4. Venus
+Your answer (1-4): 2
+Correct!
+
+3. Who wrote 'Romeo and Juliet'?
+   1. Charles Dickens
+   2. William Shakespeare
+   3. Mark Twain
+   4. Jane Austen
+Your answer (1-4): 4
+Wrong! The correct answer is: 2
+Question added to revision folder.
+
+4. What is the square root of 64?
+   1. 6
+   2. 7
+   3. 8
+   4. 9
+Your answer (1-4): 1
+Wrong! The correct answer is: 3
+Question added to revision folder.
+
+5. What is the largest mammal?
+   1. Elephant
+   2. Blue Whale
+   3. Giraffe
+   4. Shark
+Your answer (1-4): 3
+Wrong! The correct answer is: 2
+Question added to revision folder.
+
+Quiz completed! Your score: 2/5
+
+===== Quiz or Flashcard App =====
+1. Add Quiz/Flashcard
+2. Remove a Question
+3. Edit Question
+4. Quiz Mode
+5. Revision Mode
+6. Display All Questions
+7. Exit
+Enter your choice: 5
+
+===== Revision Mode =====
+
+What is the largest mammal?
+   1. Elephant
+   2. Blue Whale
+   3. Giraffe
+   4. Shark
+Your answer (1-4): 2
+Correct!
+
+What is the square root of 64?
+   1. 6
+   2. 7
+   3. 8
+   4. 9
+Your answer (1-4): 3
+Correct!
+
+Who wrote 'Romeo and Juliet'?
+   1. Charles Dickens
+   2. William Shakespeare
+   3. Mark Twain
+   4. Jane Austen
+Your answer (1-4): 2
+Correct!
+
+Revision completed! Your score: 3
+
+===== Quiz or Flashcard App =====
+1. Add Quiz/Flashcard
+2. Remove a Question
+3. Edit Question
+4. Quiz Mode
+5. Revision Mode
+6. Display All Questions
+7. Exit
+Enter your choice: 7
+Exiting... Thank you for using the app!

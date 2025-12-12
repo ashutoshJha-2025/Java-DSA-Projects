@@ -1,0 +1,79 @@
+===== Task Tracker =====
+1. Add Task
+2. Remove Task
+3. Edit Task
+4. Mark Task In Progress
+5. Mark Task Done
+6. Display All Tasks
+7. Exit
+Enter your choice: 1
+Add (or type '0' to exit): buy groceries
+Task added successfully (ID: 1 )
+Add (or type '0' to exit): cook dinner
+Task added successfully (ID: 2 )
+Add (or type '0' to exit): wash clothes
+Task added successfully (ID: 3 )
+Add (or type '0' to exit): read book 
+Task added successfully (ID: 4 )
+Add (or type '0' to exit): 0
+
+===== Task Tracker =====
+1. Add Task
+2. Remove Task
+3. Edit Task
+4. Mark Task In Progress
+5. Mark Task Done
+6. Display All Tasks
+7. Exit
+Enter your choice: 6
+1. buy groceries [TODO] Created at: Fri Dec 12 16:48:40 IST 2025, Updated at: Fri Dec 12 16:48:40 IST 2025
+2. cook dinner [TODO] Created at: Fri Dec 12 16:48:49 IST 2025, Updated at: Fri Dec 12 16:48:49 IST 2025
+3. wash clothes [TODO] Created at: Fri Dec 12 16:48:53 IST 2025, Updated at: Fri Dec 12 16:48:53 IST 2025
+4. read book [TODO] Created at: Fri Dec 12 16:48:58 IST 2025, Updated at: Fri Dec 12 16:48:58 IST 2025
+
+===== Task Tracker =====
+1. Add Task
+2. Remove Task
+3. Edit Task
+4. Mark Task In Progress
+5. Mark Task Done
+6. Display All Tasks
+7. Exit
+Enter your choice: 5
+Id: 3
+
+===== Task Tracker =====
+1. Add Task
+2. Remove Task
+3. Edit Task
+4. Mark Task In Progress
+5. Mark Task Done
+6. Display All Tasks
+7. Exit
+Enter your choice: 4
+Id: 4
+
+===== Task Tracker =====
+1. Add Task
+2. Remove Task
+3. Edit Task
+4. Mark Task In Progress
+5. Mark Task Done
+6. Display All Tasks
+7. Exit
+Enter your choice: 6
+1. buy groceries [TODO] Created at: Fri Dec 12 16:48:40 IST 2025, Updated at: Fri Dec 12 16:48:40 IST 2025
+2. cook dinner [TODO] Created at: Fri Dec 12 16:48:49 IST 2025, Updated at: Fri Dec 12 16:48:49 IST 2025
+3. wash clothes [DONE] Created at: Fri Dec 12 16:48:53 IST 2025, Updated at: Fri Dec 12 16:49:29 IST 2025
+4. read book [IN_PROGRESS] Created at: Fri Dec 12 16:48:58 IST 2025, Updated at: Fri Dec 12 16:51:49 IST 2025
+
+===== Task Tracker =====
+1. Add Task
+2. Remove Task
+3. Edit Task
+4. Mark Task In Progress
+5. Mark Task Done
+6. Display All Tasks
+7. Exit
+Enter your choice: 7
+Exiting... Thank you for using the app!
