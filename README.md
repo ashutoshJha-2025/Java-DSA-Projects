@@ -1,7 +1,7 @@
-Here are some real-life Java project ideas focused on Data Structures and Algorithms (DSA). These ideas emphasize `arrays, linked lists, stacks, queues, hash maps, heaps,` etc. and are grounded in practical applications.
+Here are some real-life Java project ideas focused on Data Structures and Algorithms (DSA). These ideas emphasize `arrays, linked lists, stacks, queues, hash maps, heaps,Graphs` etc. and are grounded in practical applications.
 
 ---
-### 🛒 1. Shopping Cart System (Using HashMaps & Lists)
+### 🛒 Shopping Cart System (Using HashMaps & Lists)
 - *Description*: Simulate a basic e-commerce cart system.
 - *DSA Concepts*: HashMap (for product ID to product info), ArrayList (for items in cart).
 - *Features*:
@@ -13,28 +13,19 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
 
 ---
 
-### 🧾 2. *Task Scheduler App (Priority Queue)*
-- *Description*: A CLI-based or GUI app that helps schedule tasks based on deadlines or priorities.
-- *DSA Concepts*: Min-Heap / Priority Queue.
+### 🧾 *Task Tracker*
+- *Description*: A CLI-based or GUI app that helps schedule tasks.
+- *DSA Concepts*: ArrayList.
 - *Features*:
-  - Add a task with deadline/priority
-  - Auto-sort tasks
-  - Show due tasks for today
+  - Add a task
+  - Update
+  - Delete
+  - Task Status (TODO, INPROGRESS, DONE)
   - All upcoming tasks
 
 ---
-### 📞 3. *Call Center Support Ticket Manager*
-- *Description*: Handle incoming customer issues.
-- *DSA Concepts*: Stack (for undo), Queue (tickets), HashMap (for customer info).
-- *Features*:
-  - Log a new ticket
-  - view pending tickets
-  - Resolve a ticket
-  - Track past tickets
 
----
-
-### 🔒 4. *Password Manager (String Manipulation + HashMap)*
+### 🔒 *Password Manager (String Manipulation + HashMap)*
 - *Description*: Store and retrieve passwords.
 - *DSA Concepts*: HashMap (site → password), String processing, basic encryption algorithms.
 - *Features*:
@@ -44,12 +35,24 @@ Here are some real-life Java project ideas focused on Data Structures and Algori
 
 ---
 
-### 🧠 5. *Quiz/Flashcard App (Linked List + Stack)*
+### 🧠 *Quiz/Flashcard App (Linked List + Stack)*
 - *Description*: Study app using flashcards and quizzes.
 - *DSA Concepts*: LinkedList (card navigation), Stack (revisiting questions).
 - *Features*:
   - Add/edit/remove flashcards
   - Shuffle deck
   - Track incorrect answers (for retry stack)
+
+---
+
+### 🌐 *Social Network Graph*
+- *Description*:Users are represented as nodes in a graph, and friendships are represented as edges. The system recommends new friends by analyzing friends of friends using graph traversal techniques.
+- *DSA Concepts*: Graph (Adjacency List), HashMap, HashSet, Queue, BFS
+- *Features*:
+  - Add new users to the network
+  - Create friendships between users
+  - Find mutual friends between two users
+  - Recommend friends using BFS (friends of friends)
+  - Display user connections
 
 ---
